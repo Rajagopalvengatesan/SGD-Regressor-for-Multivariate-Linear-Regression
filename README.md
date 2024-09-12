@@ -18,13 +18,12 @@ Step 7: Model Evaluation
 Step 8: End
 
 ## Program:
-```
-/*
+
 Program to implement the multivariate linear regression model for predicting the price of the house and number of occupants in the house with SGD regressor.
 Developed by: RAJA GOPAL V
 RegisterNumber:  212223240134
-*/
 
+```
 import numpy as np
 import pandas as pd
 from sklearn.datasets import fetch_california_housing
